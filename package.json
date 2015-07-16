@@ -1,7 +1,7 @@
 {
   "name": "pebble-chrome-tab-switcher",
   "version": "0.0.1",
-  "description": "Pebble Chrome tab switcher server.",
+  "description": "Pebble Chrome tab switcher web server.",
   "main": "server.js",
   "directories": {
     "test": "test"

@@ -2,7 +2,7 @@
 
 > Pebble Chrome tab switcher web server.
 
-**To be used in conjuction with the [https://github.com/miguelmota/pebble-button-http-request](Pebble Button HTTP Request app).**
+**Note:** To be used in conjuction with the [https://github.com/miguelmota/pebble-button-http-request](Pebble Button HTTP Request app).
 
 # Install
 
