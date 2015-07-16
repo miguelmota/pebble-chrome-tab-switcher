@@ -4,6 +4,8 @@
 
 **Note:** To be used in conjuction with the [Pebble Button HTTP Request app](https://github.com/miguelmota/pebble-button-http-request).
 
+What this does is basically trigger keyboard key events that trigger keyboard shortcut events on Chrome.
+
 # Install
 
 ```bash
