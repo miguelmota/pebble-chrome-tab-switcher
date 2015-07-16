@@ -1,6 +1,6 @@
-# flowright
+# pebble-chrome-tab-switcher
 
-> Pebble Chrome tab switcher server.
+> Pebble Chrome tab switcher web server.
 
 **To be used in conjuction with the [https://github.com/miguelmota/pebble-button-http-request](Pebble Button HTTP Request app).**
 
