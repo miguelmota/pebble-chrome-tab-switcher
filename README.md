@@ -4,7 +4,8 @@
 
 **Note:** To be used in conjuction with the [Pebble Button HTTP Request app](https://github.com/miguelmota/pebble-button-http-request).
 
-What this does is basically trigger keyboard key events that trigger keyboard shortcut events on Chrome.
+What this does is basically trigger keyboard key events that trigger keyboard shortcut events on Chrome. Handy for switching tabs in Chrome, for example when having analytic dashboards on Tab Carousel on a TV at the office.
+
 
 # Install
 
